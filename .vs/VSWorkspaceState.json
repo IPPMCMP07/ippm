@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\node_modules",
+    "\\server\\routes",
+    "\\src\\app",
+    "\\src\\app\\header",
+    "\\src\\app\\header\\registration",
+    "\\src\\environments"
+  ],
+  "SelectedNode": "\\dist",
+  "PreviewInSolutionExplorer": false
+}
